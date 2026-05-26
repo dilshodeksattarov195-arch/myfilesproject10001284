@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuonnect",
+        "uuid": 3007128,
+        "checksum": "mvpzc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
